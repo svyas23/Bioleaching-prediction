@@ -1,5 +1,5 @@
 # Predictive modeling and response analysis of spent catalyst bioleaching using artificial neural network
-by [Shruti Vyas](https://scholar.google.com/citations?user=15YqUQUAAAAJ&hl=en); [YP Ting](https://scholar.google.com/citations?user=SX4OQ40AAAAJ&hl=en);
+by [Shruti Vyas](https://scholar.google.com/citations?user=15YqUQUAAAAJ&hl=en); [S Das](https://scholar.google.com/citations?user=ujEoYMsAAAAJ&hl=en); [YP Ting](https://scholar.google.com/citations?user=SX4OQ40AAAAJ&hl=en);
 
 #### Repository by [Shruti Vyas](https://scholar.google.com/citations?user=15YqUQUAAAAJ&hl=en)
 
